@@ -2,6 +2,11 @@
 
 Bot otomatis untuk berinteraksi dengan protokol Creek di Sui Blockchain Testnet. Bot ini dapat melakukan berbagai aktivitas seperti swap, stake, unstake, deposit, withdraw, borrow, dan repay secara otomatis.
 
+## 📸 Bot in Action
+
+![image](https://github.com/user-attachments/assets/a1c5f982-ce08-40a2-a18d-c992fb79c4a1)
+
+
 ## 🌟 Fitur
 
 - ✅ **Swap Otomatis**: USDC ↔ GUSD
