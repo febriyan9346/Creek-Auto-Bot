@@ -1,0 +1,50 @@
+{
+  "swapRepetitions": 1,
+  "stakeRepetitions": 1,
+  "unstakeRepetitions": 1,
+  "depositRepetitions": 1,
+  "withdrawRepetitions": 1,
+  "borrowRepetitions": 1,
+  "repayRepetitions": 1,
+  "usdcSwapRange": {
+    "min": 1,
+    "max": 2
+  },
+  "gusdSwapRange": {
+    "min": 1,
+    "max": 2
+  },
+  "xaumStakeRange": {
+    "min": 0.01,
+    "max": 0.02
+  },
+  "xaumUnstakeRange": {
+    "min": 0.01,
+    "max": 0.02
+  },
+  "grDepositRange": {
+    "min": 0.1,
+    "max": 0.2
+  },
+  "suiDepositRange": {
+    "min": 0.01,
+    "max": 0.02
+  },
+  "grWithdrawRange": {
+    "min": 0.1,
+    "max": 0.2
+  },
+  "suiWithdrawRange": {
+    "min": 0.01,
+    "max": 0.02
+  },
+  "gusdBorrowRange": {
+    "min": 1,
+    "max": 2
+  },
+  "gusdRepayRange": {
+    "min": 0.5,
+    "max": 1
+  },
+  "loopHours": 24
+}
